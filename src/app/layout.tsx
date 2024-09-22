@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "BFHL Challenge",
+  title: "RA2111003010335",
   description: "Frontend for BFHL Challenge",
 };
 
